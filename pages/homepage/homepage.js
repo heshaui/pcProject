@@ -1,0 +1,1 @@
+var my="ceshi",str="woshi";
